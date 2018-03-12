@@ -5,6 +5,6 @@
 - Contain data on players, managers, umpires, leagues
 
 # Key Objectives:
-- Using the data available to design normalized schema
+- Use the data available to design normalized schema
 - Create a database based on the schema
 - Populate the database with original data
